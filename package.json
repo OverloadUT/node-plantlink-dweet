@@ -1,0 +1,19 @@
+{
+  "name": "node-plantlink-dweet",
+  "version": "0.0.1",
+  "description": "Reads from Plantlink's unofficial API and Dweets when things change",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/overloadut/node-plantlink-dweet.git"
+  },
+  "author": "Greg \"OverloadUT\" Laabs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/overloadut/node-plantlink-dweet/issues"
+  },
+  "homepage": "https://github.com/overloadut/node-plantlink-dweet#readme",
+}
